@@ -20,3 +20,7 @@ a {
     font-family: "Trebuchet MS", sans-serif;
     font-size: 15px;
 }
+
+a {
+    display: block;
+}
